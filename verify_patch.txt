@@ -1,0 +1,11 @@
+Verify patch in dwm PID 2936
+
+Region 0x17B82030000: 0 pattern match(es)
+
+Region 0x17B82060000: 0 pattern match(es)
+
+Pattern @ 0x17B82086934  jne@0x17B8208693C  -> PATCHED (90 90)
+Region 0x17B82080000: 1 pattern match(es)
+
+Region 0x17B820D0000: 0 pattern match(es)
+
